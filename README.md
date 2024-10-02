@@ -9,3 +9,11 @@ Credit risk models evaluate the likelihood that a borrower will default on their
 
 
 <img src = "takingrisks.png" width = "800"  height = "800">
+
+
+## The Mathematics required to understand risk models involves mastering several key techniques and tools:¶
+- Probability Theory: Used to model uncertainties and quantify risks, particularly in credit and market risk assessments37.
+- Stochastic Modeling: Utilized for simulating random processes and predicting future states of financial systems, often applied in asset pricing and risk management35.
+- Value-at-Risk (VaR) and Expected Shortfall (ES): Statistical measures used to estimate potential losses in portfolios over a specific time frame24.
+- Monte Carlo Simulation: Employed to evaluate the impact of risk by simulating a range of possible outcomes based on random variables4.
+- Machine Learning Algorithms: Increasingly used for analyzing large datasets to predict and manage financial risks
