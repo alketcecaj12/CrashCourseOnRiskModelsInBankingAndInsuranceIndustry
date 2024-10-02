@@ -8,4 +8,4 @@ Credit risk models evaluate the likelihood that a borrower will default on their
 - Exposure at Default (EAD): Assesses the total amount exposed to loss at the time of default, which helps in understanding potential losses under different scenarios
 
 
-<img src = "takingrisks.png" width = "500", height = "500">
+<img src = "takingrisks.png" width = "500"  height = "500">
