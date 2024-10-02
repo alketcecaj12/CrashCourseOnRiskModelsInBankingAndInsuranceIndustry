@@ -6,3 +6,6 @@ Credit risk models evaluate the likelihood that a borrower will default on their
 - Probability of Default (PD): Estimates the likelihood that a borrower will fail to meet their debt obligations.
 - Loss Given Default (LGD): Measures the potential loss a lender could incur if a borrower defaults, expressed as a percentage of total exposure.
 - Exposure at Default (EAD): Assesses the total amount exposed to loss at the time of default, which helps in understanding potential losses under different scenarios
+
+
+<img src = "takingrisks.png" width = "500", height = "500">
